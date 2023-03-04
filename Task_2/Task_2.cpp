@@ -1,4 +1,4 @@
-﻿// Task_2.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
+﻿// Task 2. Write a program that displays a chessboard with a given cell size on the screen.
 //
 
 #include <iostream>
